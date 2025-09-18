@@ -12,10 +12,12 @@
 ---
 
 ## Lab Setup
-![Lab Topology Screenshot](assets/basic-lan-setup-topology.png)  
-*(Insert your Packet Tracer topology screenshot here — save the image in an `assets/` folder in your repo.)*
 
----
+
+
+<p align="center">
+  <img src="https://i.postimg.cc/63f41xJc/lab-set-up-b2c1084484112cab0442c7554c38ca3b.png" alt="Basic LAN Setup Topology"/>
+</p>
 
 ## Part 1: Simulating the Console Connection Using Packet Tracer
 
