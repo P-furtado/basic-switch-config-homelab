@@ -1,4 +1,9 @@
 # Basic LAN Setup Homelab
+## Download Packet Tracer Files
+
+
+- [Part 1: Switch Configuration](Basic Switch Config.pkt)
+
 
 ## Objectives
 - Simulate a console connection to a switch using Packet Tracer.
