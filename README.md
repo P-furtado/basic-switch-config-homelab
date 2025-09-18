@@ -2,7 +2,8 @@
 ## Download Packet Tracer Files
 
 
-- [Part 1: Switch Configuration](Basic Switch Config.pkt)
+[Download Part 1: Basic Switch Configuration](Basic%20Switch%20Config.pkt)
+
 
 
 ## Objectives
