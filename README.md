@@ -1,4 +1,4 @@
-# Basic LAN Setup Homelab
+# Basic Switch Configuration Homelab
 ## Download Packet Tracer Files
 
 
